@@ -1,1 +1,1 @@
-AWS CI Demo
+AWS CICD Demo
